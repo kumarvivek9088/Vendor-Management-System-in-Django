@@ -1,7 +1,7 @@
 # Vendor-Management-System-in-Django
 Vendor Management System in Django
 
-Instructions : 
+**Instructions :**
 1. **Clone the repository to your local machine:**
     ```
     git clone https://github.com/kumarvivek9088/Vendor-Management-System-in-Django.git
